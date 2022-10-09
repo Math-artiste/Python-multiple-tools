@@ -1,0 +1,606 @@
+# group: Smileys & Emotion
+
+# subgroup: face-smiling
+\U0001F600: grinning face
+\U0001F603: grinning face with big eyes
+\U0001F604: grinning face with smiling eyes
+\U0001F601: beaming face with smiling eyes
+\U0001F606: grinning squinting face
+\U0001F605: grinning face with sweat
+\U0001F923: rolling on the floor laughing
+\U0001F602: face with tears of joy
+\U0001F642: slightly smiling face
+\U0001F643: upside-down face
+\U0001FAE0: melting face
+\U0001F609: winking face
+\U0001F60A: smiling face with smiling eyes
+\U0001F607: smiling face with halo
+
+# subgroup: face-affection
+\U0001F970: smiling face with hearts
+\U0001F60D: smiling face with heart-eyes
+\U0001F929: star-struck
+\U0001F618: face blowing a kiss
+\U0001F617E1.: kissing face
+\U000263A FE0F: smiling face
+\U000263A: smiling face
+\U0001F61A: kissing face with closed eyes
+\U0001F619: kissing face with smiling eyes
+\U0001F972: face with tear
+
+# subgroup: face-tongue
+\U0001F60B: face savoring food
+\U0001F61B: face with tongue
+\U0001F61C: winking face with tongue
+\U0001F92A: zany face
+\U0001F61D: squinting face with tongue
+\U0001F911: money-mouth face
+
+# subgroup: face-hand
+\U0001F917: face with open hands
+\U0001F92D: face with open eyes and hand over mouth
+\U0001FAE3: face with peeking eye
+\U0001F92B: shushing face
+\U0001F914: thinking face
+\U0001FAE1: saluting face
+
+# subgroup: face-neutral-skeptical
+\U0001F910: zipper-mouth face
+\U0001F928: face with raised eyebrow
+\U0001F610: neutral face
+\U0001F611: expressionless face
+\U0001F636: face without mouth
+\U0001FAE5: dotted line face
+\U0001F636 200D 1F32B FE0F: face in clouds
+\U0001F636 200D 1F32B: face in clouds
+\U0001F60F: smirking face
+\U0001F612: unamused face
+\U0001F644: face with rolling eyes
+\U0001F62C: grimacing face
+\U0001F62E 200D 1F4A8: face exhaling
+\U0001F925: lying face
+\U0001FAE8: shaking face
+
+subgroup facesleepy
+1F60C:   relieved face
+1F614:    pensive face
+1F62A:    sleepy face
+1F924:     drooling face
+1F634:    sleeping face
+
+ subgroup faceunwell
+1F637:    face with medical mask
+1F912:    face with thermometer
+1F915:    face with headbandage
+1F922:    nauseated face
+1F92E:    face vomiting
+1F927:    sneezing face
+1F975:    hot face
+1F976:    cold face
+1F974:    woozy face
+1F635:    face with crossedout eyes
+1F635 200D 1F4AB:    face with spiral eyes
+1F92F:    exploding head
+
+ subgroup facehat
+1F920:    cowboy hat face
+1F973:    partying face
+1F978:    disguised face
+
+ subgroup faceglasses
+1F60E:     smiling face with sunglasses
+1F913:    nerd face
+1F9D0:    face with monocle
+
+ subgroup faceconcerned
+1F615:    confused face
+1FAE4:    face with diagonal mouth
+1F61F:    worried face
+1F641:    sly frowning face
+2639 FE0F:   7 frowning face
+2639:   7 frowning face
+1F62E:    face with open mouth
+1F62F:      hushed face
+1F632:     astonished face
+1F633:     flushed face
+1F97A:    pleading face
+1F979:    face holding back tears
+1F626:    frowning face with open mouth
+1F627:    anguished face
+1F628:    fearful face
+1F630:    anxious face with sweat
+1F625:    sad but relieved face
+1F622:    crying face
+1F62D:    loudly crying face
+1F631:    face screaming in fear
+1F616:    confounded face
+1F623:     persevering face
+1F61E:    disappointed face
+1F613:    downcast face with sweat
+1F629:    weary face
+1F62B:  tired face
+1F971:    yawning face
+
+ subgroup facenegative
+1F624:    face with steam from nose
+1F621:    enraged face
+1F620:    angry face
+1F92C:    face with symbols on mouth
+1F608:     smiling face with horns
+1F47F:    angry face with horns
+1F480:    skull
+2620 FE0F:    skull and crossbones
+2620:     skull and crossbones
+
+ subgroup facecostume
+1F4A9:    pile of poo
+1F921:    clown face
+1F479:    ogre
+1F47A:    goblin
+1F47B:    ghost
+1F47D:    alien
+1F47E:    alien monster
+1F916:    robot
+
+ subgroup catface
+1F63A:    grinning cat
+1F638:    grinning cat with smiling eyes
+1F639:    cat with tears of joy
+1F63B:    smiling cat with hearteyes
+1F63C:    cat with wry smile
+1F63D:    kissing cat
+1F640:    weary cat
+1F63F:     crying cat
+1F63E:    pouting cat
+
+ subgroup monkeyface
+1F648:    seenoevil monkey
+1F649:    hearnoevil monkey
+1F64A:    speaknoevil monkey
+
+ subgroup heart
+1F48C:    love letter
+1F498:    heart with arrow
+1F49D:    heart with ribbon
+1F496:    sparkling heart
+1F497:    g heart
+1F493:    beating heart
+1F49E:    revolving hearts
+1F495:    two hearts
+1F49F:    heart decoration
+2763 FE0F:    heart exclamation
+2763:    heart exclamation
+1F494:    broken heart
+2764 FE0F 200D 1F525:     heart on fire
+2764 200D 1F525:    heart on fire
+2764 FE0F 200D 1FA79:    ding heart
+2764 200D 1FA79:    ding heart
+2764 FE0F:    red heart
+2764:    red heart
+1FA77: pink heart
+1F9E1:    orange heart
+1F49B:    yellow heart
+1F49A:    green heart
+1F499:    blue heart
+1FA75:     blue heart
+1F49C:    purple heart
+1F90E:    brown heart
+1F5A4:    black heart
+1FA76:    .  grey heart
+1F90D:    white heart
+
+ subgroup emotion
+1F48B:     mark
+1F4AF:    hundred points
+1F4A2:    anger symbol
+1F4A5:    collision
+1F4AB:     dizzy
+1F4A6:    sweat droplets
+1F4A8:    dashing away
+1F573 FE0F:   7 hole
+1F573:   7 hole
+1F4AC:    speech oon
+1F441 FE0F 200D 1F5E8 FE0F:    eye in speech bubble
+1F441 200D 1F5E8 FE0F:    eye in speech bubble
+1F441 FE0F 200D 1F5E8:    eye in speech bubble
+1F441 200D 1F5E8:    eye in speech bubble
+1F5E8 FE0F:    left speech bubble
+1F5E8:    left speech bubble
+1F5EF FE0F:   7 right anger bubble
+1F5EF:   7 right anger bubble
+1F4AD:    thought oon
+1F4A4:    ZZZ
+
+ Smileys & Emotion subtotal		180
+ Smileys & Emotion subtotal		180	w/o modifiers
+
+ group People & Body
+
+ subgroup handfingersopen
+1F44B:    waving hand
+1F44B 1F3FB:    waving hand   
+1F44B 1F3FC:    waving hand   
+1F44B 1F3FD:    waving hand   
+1F44B 1F3FE:    waving hand   
+1F44B 1F3FF:    waving hand   
+1F91A:    raised back of hand
+1F91A 1F3FB:    raised back of hand   
+1F91A 1F3FC:    raised back of hand   
+1F91A 1F3FD:    raised back of hand   
+1F91A 1F3FE:    raised back of hand   
+1F91A 1F3FF:     raised back of hand   
+1F590 FE0F:   7 hand with fingers splayed
+1F590:   7 hand with fingers splayed
+1F590 1F3FB:    hand with fingers splayed   
+1F590 1F3FC:    hand with fingers splayed   
+1F590 1F3FD:    hand with fingers splayed   
+1F590 1F3FE:    hand with fingers splayed   
+1F590 1F3FF:    hand with fingers splayed   
+270B:    raised hand
+270B 1F3FB    raised hand   
+270B 1F3FC:    raised hand   
+270B 1F3FD:    raised hand   
+270B 1F3FE:     raised hand   
+270B 1F3FF:    raised hand   
+1F596:     vulcan salute
+1F596 1F3FB:    vulcan salute   
+1F596 1F3FC:    vulcan salute   
+1F596 1F3FD:    vulcan salute   
+1F596 1F3FE:    vulcan salute   
+1F596 1F3FF:    vulcan salute   
+1FAF1:    rightwards hand
+1FAF1 1F3FB:     rightwards hand   
+1FAF1 1F3FC:    rightwards hand   
+1FAF1 1F3FD:    rightwards hand   
+1FAF1 1F3FE:    rightwards hand   
+1FAF1 1F3FF:    rightwards hand   
+1FAF2:         leftwards hand
+1FAF2 1F3FB:    leftwards hand   
+1FAF2 1F3FC:    leftwards hand   
+1FAF2 1F3FD:    leftwards hand   
+1FAF2 1F3FE:    leftwards hand   
+1FAF2 1F3FF:    leftwards hand   
+1FAF3:    palm down hand
+1FAF3 1F3FB:    palm down hand   
+1FAF3 1F3FC:    palm down hand   
+1FAF3 1F3FD:    palm down hand   
+1FAF3 1F3FE:    palm down hand   
+1FAF3 1F3FF:    palm down hand   
+1FAF4:    palm up hand
+1FAF4 1F3FB:     palm up hand   
+1FAF4 1F3FC:     palm up hand   
+1FAF4 1F3FD:    palm up hand   
+1FAF4 1F3FE:    palm up hand   
+1FAF4 1F3FF:    palm up hand   
+1FAF7:   leftwards pushing hand
+1FAF7 1F3FB:    leftwards pushing hand   
+1FAF7 1F3FC:    leftwards pushing hand   
+1FAF7 1F3FD:     leftwards pushing hand   
+1FAF7 1F3FE:    leftwards pushing hand   
+1FAF7 1F3FF:    leftwards pushing hand   
+1FAF8:  rightwards pushing hand
+1FAF8 1F3FB:    rightwards pushing hand   
+1FAF8 1F3FC:   rightwards pushing hand   
+1FAF8 1F3FD:   rightwards pushing hand   
+1FAF8 1F3FE:    rightwards pushing hand   
+1FAF8 1F3FF:    rightwards pushing hand   
+
+ subgroup handfingerspartial
+1F44C:    OK hand
+1F44C 1F3FB:    OK hand   
+1F44C 1F3FC:    OK hand   
+1F44C 1F3FD:    OK hand   
+1F44C 1F3FE:    OK hand   
+1F44C 1F3FF:    OK hand   
+1F90C:    pinched fingers
+1F90C 1F3FB:    pinched fingers   
+1F90C 1F3FC:    pinched fingers   
+1F90C 1F3FD:    pinched fingers   
+1F90C 1F3FE:    pinched fingers   
+1F90C 1F3FF:    pinched fingers   
+1F90F:    pinching hand
+1F90F 1F3FB:    pinching hand   
+1F90F 1F3FC:    pinching hand   
+1F90F 1F3FD:    pinching hand   
+1F90F 1F3FE:    pinching hand   
+1F90F 1F3FF:    pinching hand   
+270C FE0F:    victory hand
+270C:    victory hand
+270C 1F3FB:    victory hand   
+270C 1F3FC:    victory hand   
+270C 1F3FD:    victory hand   
+270C 1F3FE:    victory hand   
+270C 1F3FF:    victory hand   
+1F91E:    crossed fingers
+1F91E 1F3FB:    crossed fingers   
+1F91E 1F3FC:    crossed fingers   
+1F91E 1F3FD:    crossed fingers   
+1F91E 1F3FE:    crossed fingers   
+1F91E 1F3FF:    crossed fingers   
+1FAF0: hand with index finger and thumb crossed
+1FAF0 1F3FB: hand with index finger and thumb crossed   
+1FAF0 1F3FC: hand with index finger and thumb crossed   
+1FAF0 1F3FD: hand with index finger and thumb crossed   
+1FAF0 1F3FE: hand with index finger and thumb crossed   
+1FAF0 1F3FF: hand with index finger and thumb crossed   
+1F91F:    loveyou gesture
+1F91F 1F3FB:    loveyou gesture   
+1F91F 1F3FC:    loveyou gesture   
+1F91F 1F3FD:    loveyou gesture   
+1F91F 1F3FE:    loveyou gesture   
+1F91F 1F3FF:    loveyou gesture   
+1F918:    sign of the horns
+1F918 1F3FB:    sign of the horns   
+1F918 1F3FC:    sign of the horns   
+1F918 1F3FD:    sign of the horns   
+1F918 1F3FE:    sign of the horns   
+1F918 1F3FF:    sign of the horns   
+1F919:    call me hand
+1F919 1F3FB:    call me hand   
+1F919 1F3FC:    call me hand   
+1F919 1F3FD:    call me hand   
+1F919 1F3FE:    call me hand   
+1F919 1F3FF:    call me hand   
+
+ subgroup handsinglefinger
+1F448:    backhand index pointing left
+1F448 1F3FB:    backhand index pointing left   
+1F448 1F3FC:    backhand index pointing left   
+1F448 1F3FD:    backhand index pointing left   
+1F448 1F3FE:    backhand index pointing left   
+1F448 1F3FF:    backhand index pointing left   
+1F449:    backhand index pointing right
+1F449 1F3FB:    backhand index pointing right   
+1F449 1F3FC:    backhand index pointing right   
+1F449 1F3FD:    backhand index pointing right   
+1F449 1F3FE:    backhand index pointing right   
+1F449 1F3FF:     backhand index pointing right   
+1F446:    backhand index pointing up
+1F446 1F3FB:    backhand index pointing up   
+1F446 1F3FC:    backhand index pointing up   
+1F446 1F3FD:    backhand index pointing up   
+1F446 1F3FE:    backhand index pointing up   
+1F446 1F3FF:    backhand index pointing up   
+1F595:    middle finger
+1F595 1F3FB:    middle finger   
+1F595 1F3FC:  middle finger   
+1F595 1F3FD:    middle finger   
+1F595 1F3FE:    middle finger   
+1F595 1F3FF:    middle finger   
+1F447:    backhand index pointing down
+1F447 1F3FB:  backhand index pointing down   
+1F447 1F3FC:    backhand index pointing down   
+1F447 1F3FD:    backhand index pointing down   
+1F447 1F3FE:    backhand index pointing down   
+1F447 1F3FF:    backhand index pointing down   
+261D FE0F:     index pointing up
+261D:    index pointing up
+261D 1F3FB:    index pointing up   
+261D 1F3FC:    index pointing up   
+261D 1F3FD:    index pointing up   
+261D 1F3FE:    index pointing up   
+261D 1F3FF:    index pointing up   
+1FAF5:    index pointing at the viewer
+1FAF5 1F3FB:    index pointing at the viewer   
+1FAF5 1F3FC:    index pointing at the viewer   
+1FAF5 1F3FD:    index pointing at the viewer   
+1FAF5 1F3FE:    index pointing at the viewer   
+1FAF5 1F3FF:    index pointing at the viewer   
+
+ subgroup handfingersclosed
+1F44D:     thumbs up
+1F44D 1F3FB:    thumbs up   
+1F44D 1F3FC:    thumbs up   
+1F44D 1F3FD:     thumbs up   
+1F44D 1F3FE:    thumbs up   
+1F44D 1F3FF:    thumbs up   
+1F44E    thumbs down
+1F44E 1F3FB:    thumbs down   
+1F44E 1F3FC:    thumbs down   
+1F44E 1F3FD:    thumbs down   
+1F44E 1F3FE:    thumbs down   
+1F44E 1F3FF:    thumbs down   
+270A:    raised fist
+270A 1F3FB:    raised fist   
+270A 1F3FC:    raised fist   
+270A 1F3FD:    raised fist   
+270A 1F3FE:    raised fist   
+270A 1F3FF:    raised fist   
+1F44A:    oncoming fist
+1F44A 1F3FB:    oncoming fist   
+1F44A 1F3FC:    oncoming fist   
+1F44A 1F3FD:    oncoming fist   
+1F44A 1F3FE:    oncoming fist   
+1F44A 1F3FF:    oncoming fist   
+1F91B:    leftfacing fist
+1F91B 1F3FB:     leftfacing fist   
+1F91B 1F3FC:    leftfacing fist   
+1F91B 1F3FD:    leftfacing fist   
+1F91B 1F3FE:    leftfacing fist   
+1F91B 1F3FF:    leftfacing fist   
+1F91C:    rightfacing fist
+1F91C 1F3FB:    rightfacing fist   
+1F91C 1F3FC:    rightfacing fist   
+1F91C 1F3FD:  rightfacing fist   
+1F91C 1F3FE:    rightfacing fist   
+1F91C 1F3FF:    rightfacing fist   
+
+ subgroup hands
+1F44F:    clapping hands
+1F44F 1F3FB:    clapping hands   
+1F44F 1F3FC:    clapping hands   
+1F44F 1F3FD:    clapping hands   
+1F44F 1F3FE:    clapping hands   
+1F44F 1F3FF:    clapping hands   
+1F64C:    raising hands
+1F64C 1F3FB:    raising hands   
+1F64C 1F3FC:  raising hands   
+1F64C 1F3FD:    raising hands   
+1F64C 1F3FE:    raising hands   
+1F64C 1F3FF:    raising hands   
+1FAF6: 🫶  heart hands
+1FAF6 1F3FB :    heart hands   
+1FAF6 1F3FC:    heart hands   
+1FAF6 1F3FD:    heart hands   
+1FAF6 1F3FE:     heart hands   
+1FAF6 1F3FF:    heart hands   
+1F450:    open hands
+1F450 1F3FB :    open hands   
+1F450 1F3FC:    open hands   
+1F450 1F3FD:    open hands   
+1F450 1F3FE:    open hands   
+1F450 1F3FF:    open hands   
+1F932:    palms up together
+1F932 1F3FB:    palms up together   
+1F932 1F3FC:    palms up together   
+1F932 1F3FD:    palms up together   
+1F932 1F3FE:     palms up together   
+1F932 1F3FF:    palms up together   
+1F91D:    handshake
+1F91D 1F3FB:    handshake   
+1F91D 1F3FC:    handshake   
+1F91D 1F3FD:    handshake   
+1F91D 1F3FE:     handshake   
+1F91D 1F3FF:    handshake   
+1FAF1 1F3FB 200D 1FAF2 1F3FC:    handshake      
+1FAF1 1F3FB 200D 1FAF2 1F3FD:    handshake      
+1FAF1 1F3FB 200D 1FAF2 1F3FE:    handshake      
+1FAF1 1F3FB 200D 1FAF2 1F3FF:    handshake      
+1FAF1 1F3FC 200D 1FAF2 1F3FB:    handshake      
+1FAF1 1F3FC 200D 1FAF2 1F3FD:    handshake      
+1FAF1 1F3FC 200D 1FAF2 1F3FE:    handshake      
+1FAF1 1F3FC 200D 1FAF2 1F3FF:    handshake      
+1FAF1 1F3FD 200D 1FAF2 1F3FB:    handshake      
+1FAF1 1F3FD 200D 1FAF2 1F3FC:    handshake      
+1FAF1 1F3FD 200D 1FAF2 1F3FE:    handshake      
+1FAF1 1F3FD 200D 1FAF2 1F3FF:    handshake      
+1FAF1 1F3FE 200D 1FAF2 1F3FB:    handshake      
+1FAF1 1F3FE 200D 1FAF2 1F3FC:    handshake      
+1FAF1 1F3FE 200D 1FAF2 1F3FD:    handshake      
+1FAF1 1F3FE 200D 1FAF2 1F3FF:    handshake      
+1FAF1 1F3FF 200D 1FAF2 1F3FB:    handshake      
+1FAF1 1F3FF 200D 1FAF2 1F3FC:    handshake      
+1FAF1 1F3FF 200D 1FAF2 1F3FD:    handshake      
+1FAF1 1F3FF 200D 1FAF2 1F3FE:     handshake      
+1F64F:    folded hands
+1F64F 1F3FB:     folded hands   
+1F64F 1F3FC:    folded hands   
+1F64F 1F3FD:    folded hands   
+1F64F 1F3FE:  folded hands   
+1F64F 1F3FF:    folded hands   
+
+ subgroup handprop
+270D FE0F:   7 writing hand
+270D:   7 writing hand
+270D 1F3FB:    writing hand   
+270D 1F3FC:    writing hand   
+270D 1F3FD:    writing hand   
+270D 1F3FE:    writing hand   
+270D 1F3FF:    writing hand   
+1F485:    nail polish
+1F485 1F3FB:    nail polish   
+1F485 1F3FC:    nail polish   
+1F485 1F3FD:    nail polish   
+1F485 1F3FE:     nail polish   
+1F485 1F3FF:    nail polish   
+1F933:    selfie
+1F933 1F3FB:    selfie   
+1F933 1F3FC:    selfie   
+1F933 1F3FD:    selfie   
+1F933 1F3FE:    selfie   
+1F933 1F3FF:    selfie   
+
+ subgroup bodyparts
+1F4AA:    flexed biceps
+1F4AA 1F3FB:    flexed biceps   
+1F4AA 1F3FC:    flexed biceps   
+1F4AA 1F3FD:    flexed biceps   
+1F4AA 1F3FE:  flexed biceps   
+1F4AA 1F3FF:    flexed biceps   
+1F9BE:    mechanical arm
+1F9BF: mechanical leg
+1F9B5:     leg
+1F9B5 1F3FB:    leg   
+1F9B5 1F3FC:    leg   
+1F9B5 1F3FD:  leg   
+1F9B5 1F3FE:    leg   
+1F9B5 1F3FF:    leg   
+1F9B6:    foot
+1F9B6 1F3FB:    foot   
+1F9B6 1F3FC:    foot   
+1F9B6 1F3FD:    foot   
+1F9B6 1F3FE: foot   
+1F9B6 1F3FF:    foot   
+1F442:    ear
+1F442 1F3FB:    ear   
+1F442 1F3FC:    ear   
+1F442 1F3FD:     ear   
+1F442 1F3FE:    ear   
+1F442 1F3FF:    ear   
+1F9BB:    ear with hearing aid
+1F9BB 1F3FB:    ear with hearing aid   
+1F9BB 1F3FC: ear with hearing aid   
+1F9BB 1F3FD:    ear with hearing aid   
+1F9BB 1F3FE:    ear with hearing aid   
+1F9BB 1F3FF:    ear with hearing aid   
+1F443:    nose
+1F443 1F3FB:    nose   
+1F443 1F3FC:    nose   
+1F443 1F3FD:    nose   
+1F443 1F3FE:  nose   
+1F443 1F3FF:    nose   
+1F9E0:    brain
+1FAC0:    anatomical heart
+1FAC1:    lungs
+1F9B7:    tooth
+1F9B4:    bone
+1F440:     eyes
+1F441 FE0F:   7 eye
+1F441:   7 eye
+1F445:    tongue
+1F444:    mouth
+1FAE6:    biting lip
+
+ subgroup person
+1F476:    baby
+1F476 1F3FB:    baby   
+1F476 1F3FC:    baby   
+1F476 1F3FD:     baby   
+1F476 1F3FE:    baby   
+1F476 1F3FF:    baby   
+1F9D2:    child
+1F9D2 1F3FB:    child   
+1F9D2 1F3FC:    child   
+1F9D2 1F3FD:    child   
+1F9D2 1F3FE:    child   
+1F9D2 1F3FF:    child   
+1F466:    
+1F466 1F3FB:  medium-light skin tone
+1F466 1F3FC:  medium skin tone
+1F466 1F3FD:  medium-dark skin tone
+1F466 1F3FE: baby: dark skin tone
+1F466 1F3FF: child
+1F467 : light skin tone
+1F467 1F3FB:  medium-light skin tone
+1F467 1F3FC: medium skin tone
+1F467 1F3FD:   medium-dark skin tone
+1F467 1F3FE:   child: dark skin tone
+1F467 1F3FF:boy
+1F9D1:  light skin tone
+1F9D1 1F3FB:  medium-light skin tone
+1F9D1 1F3FC: boy: medium skin tone
+1F9D1 1F3FD:  boy: medium-dark skin tone
+1F9D1 1F3FE:  boy: dark skin tone
+1F9D1 1F3FF: girl
+1F471:     light skin tone
+1F471 1F3FB:  girl: medium-light skin tone
+1F471 1F3FC:  medium skin tone
+1F471 1F3FD:  girl: medium-dark skin tone
+1F471 1F3FE:  girl: dark skin tone
+1F471 1F3FF: person
+1F468:     person: light skin tone
+1F468 1F3FB:  person: medium-light skin tone
+1F468 1F3FC:  person: medium skin tone
+1F468 1F3FD:  person: medium-dark skin tone
+1F468 1F3FE:  person: dark skin tone
+1F468 1F3FF:  person: blond hair
